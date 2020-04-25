@@ -1,0 +1,13 @@
+.add-doggo {
+  font-family: sans-serif cursive;
+  color: peru;
+  text-align: center;
+}
+
+.add-doggo:hover {
+  color: palevioletred;
+}
+
+.add-doggo:active {
+  color: powderblue;
+}
